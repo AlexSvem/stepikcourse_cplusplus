@@ -12,7 +12,7 @@ int main() {
     }
     for (int i = 0; i < a; i ++) {
         if (s[i] % 2 == 0) {
-            cout << s[i];
+            cout << s[i] << " ";
         }
     }
     return 0;
